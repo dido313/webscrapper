@@ -1,0 +1,31 @@
+
+Algumas APIs de notícias oferecem planos gratuitos, mas geralmente com limitações. Aqui estão algumas opções populares e como funcionam:
+
+1. News API
+Plano Gratuito: Oferece um plano gratuito, mas com algumas restrições. Você pode fazer até 500 requisições por dia, o que é suficiente para muitos projetos pequenos.
+Limitações: As requisições são limitadas em termos de quantidade e velocidade. Além disso, algumas fontes de notícias podem estar disponíveis apenas em planos pagos.
+URL: https://newsapi.org
+2. GDELT API
+Gratuito: O GDELT é uma plataforma que oferece um banco de dados global de notícias, eventos e mídias sociais. Você pode buscar notícias em várias línguas gratuitamente.
+Limitações: Apesar de ser gratuito, a API é mais complexa e focada em análise de dados em larga escala, o que pode não ser tão simples para casos de uso mais básicos.
+URL: https://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/
+3. ContextualWeb News API
+Plano Gratuito: Oferece um plano gratuito com até 1000 requisições por mês. É uma alternativa popular e acessível para projetos pequenos.
+Limitações: Se você precisar de mais requisições ou funcionalidades avançadas, terá que optar por um plano pago.
+URL: https://rapidapi.com/contextualwebsearch/api/web-search
+4. Bing News Search API (via Microsoft Azure)
+Plano Gratuito: A Microsoft oferece uma quantidade limitada de requisições gratuitas (cerca de 3 mil por mês).
+Limitações: O plano gratuito tem limite de requisições, e o acesso completo às notícias pode exigir um plano pago.
+URL: https://azure.microsoft.com/services/cognitive-services/bing-news-search-api/
+5. Google News API
+Não Oficial e Limitada: A Google News API oficial foi descontinuada, mas você pode encontrar wrappers de terceiros. No entanto, esses serviços podem não ser confiáveis a longo prazo e geralmente têm limites rígidos.
+URL: Não há uma URL oficial mais recente, mas alguns wrappers estão disponíveis no GitHub ou em outras plataformas.
+Dicas:
+APIs gratuitas geralmente têm restrições em termos de volume de requisições, o que é suficiente para projetos menores.
+Verifique as políticas de uso, pois algumas fontes podem ter limitações específicas em termos de acesso ou redistribuição de conteúdo.
+
+
+
+
+
+4o
